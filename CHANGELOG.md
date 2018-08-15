@@ -1,3 +1,11 @@
+<a name="v0.8.1"></a>
+# v0.8.1 (2018-08-15)
+## Bug Fixes
+* **interchange**
+  - Update tests to accommodate newer browsers ([kristinalim/angular-foundation#2](https://github.com/kristinalim/angular-foundation/pull/2))
+* **modal**
+  - Fix vertical position of modal when ".reveal-modal" has % "top" property ([kristinalim/angular-foundation#1](https://github.com/kristinalim/angular-foundation/pull/1))
+
 <a name="v0.8.0"></a>
 # v0.8.0 (2015-10-13)
 ## Features
